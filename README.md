@@ -1,5 +1,5 @@
 # DuberDraw
-A drawing and guessing game, heavily inspired by skribbl.io
+A drawing and guessing game, heavily inspired by skribbl.io.
 * This is the final summative for ICS4UE, demonstrating the usage of object-oriented programming, data structures, sorting algorithms, and networking.
 * GameServer.java must be run first
 * Running DuberDraw.java will automatically connect a client to the running server
